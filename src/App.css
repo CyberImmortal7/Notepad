@@ -1,0 +1,42 @@
+body {
+  background-color: #b09d9d9b;
+}
+
+.notepad-container {
+  background-color: #faf7f7a3;
+  padding: 20px;
+  margin: 20px;
+}
+
+.notepad-title {
+  font-size: 26px;
+  color: #333;
+  text-align: center;
+}
+
+.new-note-form {
+  margin-top: 20px;
+}
+
+.note-list {
+  margin-top: 20px;
+}
+
+.FormatTool {
+  height: 300px;
+  width: 90%;
+  margin: 20px auto; 
+}
+
+.NewForm {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin: 20px;
+}
+
+.AddNoteButton {
+  margin-top: 20px;
+  width: 10%;
+  text-align: center;
+}
